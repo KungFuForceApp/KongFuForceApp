@@ -1,0 +1,8 @@
+.rounded-header {
+      background-color: white;          /* White background */
+      border: 2px solid gray;           /* Gray outline */
+      border-bottom-left-radius: 25px;  /* Rounded bottom left corner */
+      border-bottom-right-radius: 25px; /* Rounded bottom right corner */
+      padding: 20px;
+      text-align: center;
+    }
