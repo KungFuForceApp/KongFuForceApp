@@ -9,27 +9,27 @@ body {
   background: #f5f5f5;
 }
 
-.navy-header-with-chooser {
+.common-header-with-chooser {
   background-color: #012F64;
   color: white;
   padding: 1rem 2rem;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.navy-header-with-chooser h1 {
+.common-header-with-chooser h1 {
   font-size: 1.8rem;
   font-weight: 500;
   margin-bottom: 0.8rem;
 }
 
-.navy-inner-chooser {
+.common-inner-chooser {
   display: flex;
   gap: 2rem;
   border-top: 1px solid rgba(255,255,255,0.2);
   padding-top: 0.8rem;
 }
 
-.navy-inner-chooser a {
+.common-inner-chooser a {
   text-decoration: none;
   color: rgba(255,255,255,0.8);
   font-weight: 500;
@@ -39,17 +39,17 @@ body {
   font-size: 0.95rem;
 }
 
-.navy-inner-chooser a:hover {
+.common-inner-chooser a:hover {
   color: white;
   border-bottom-color: white;
 }
 
-.navy-inner-chooser a.navy-current-inside {
+.common-inner-chooser a.common-current-inside {
   color: white;
   border-bottom-color: white;
 }
 
-.navy-content-below {
+.common-content-below {
   padding: 2rem;
   max-width: 1200px;
   margin: 0 auto;
